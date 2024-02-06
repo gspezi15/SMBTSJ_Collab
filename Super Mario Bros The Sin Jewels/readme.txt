@@ -1,0 +1,1 @@
+风的表现依赖 libLine 画线函数集，详见 ./libLine.smt 和 windLine.smt 的文件头注释

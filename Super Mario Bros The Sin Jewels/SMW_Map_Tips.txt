@@ -1,0 +1,42 @@
+S M W - M A P	P A T H I N G   T I P S
+      	   by MrNameless
+
+NOTE: MAXIMIZE THE APP USED TO READ THIS TO HAVE A CLEAR READING OF THE TUTORIAL
+
+-- PATHING --
+If making a path:
+
+0.) Before making a path here are some important reminders while making one.
+
+	[A.]
+	
+				  	 To go UP, you must make the Y coordinate NEGATIVE or LOWER [ex. (0, -32)]
+
+        						 	       /\  
+  To go LEFT, make the X coordinate NEGATIVE or LOWER [ex.(-64, 0)]  <=||=>  To go RIGHT, you must make the X coordinate POSITVE or HIGHER [ex.(96,  0)]
+								       \/
+
+				   	To go DOWN, you must make the Y coordniate POSITIVE OR HIGHER [ex. (0, 128)]
+
+  So in simplified terms:
+  		               ^		
+Use NEGATIVE numbers (-1,-2)   |		
+  		     	    <----->
+ 		               |    Use POSITIVE numbers (1,2)
+  		               v
+
+	[B.]
+
+       X | Y  <-- coordinates correspondent to the numbers
+      (32,64) 
+
+1.) The Starting point should be 32 pixels BACKWARDS into where the level point is placed.
+Example: (-32,0) -- Here the level path is going from the RIGHT side of the starting level point so we put a -32 to put the starting point of the path in the SAME SPOT as said level point.
+
+2.) The Ending point should end 32 pixels (1 block) NEXT from where the end of the ending level point is placed THEN add 2 pixels TOWARDS it.
+Example (-32,0 , 288,0) -> *Add 2 pixels towards ending level area* -> (-32,0 , 290,0) -- Here the second coordinates moved the path by 32 x 9 pixels (9 blocks) then we added 2 more towards the ending level point
+										  /\
+										  ||
+									      Focus Here!
+
+-- END OF PATHING --

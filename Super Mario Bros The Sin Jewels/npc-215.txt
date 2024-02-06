@@ -1,0 +1,4 @@
+gfxwidth=16
+gfxheight=26
+frames=1
+height=26

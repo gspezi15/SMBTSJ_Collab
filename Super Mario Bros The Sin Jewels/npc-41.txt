@@ -1,0 +1,4 @@
+width=16
+height=22
+frames=1
+framespeed=6

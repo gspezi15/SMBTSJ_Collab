@@ -1,0 +1,16 @@
+gfxwidth=64
+gfxheight=32
+frames=16
+framespeed=1
+width=64
+height=16
+playerblock=1
+npcblock1=1
+nolava=1
+nohammer=1
+noiceball=1
+noleaf=1
+noblockhit=1
+noshell=1
+nohurt=1
+scripts=fan wind

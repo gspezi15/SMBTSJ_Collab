@@ -1,0 +1,13 @@
+gfxwidth=80
+gfxheight=64
+width=80
+height=64
+gfxoffsety=2
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblock1=0
+npcblocktop=0
+noblockcollision=1
+nonpccollision=1
+scripts=Items Storage System

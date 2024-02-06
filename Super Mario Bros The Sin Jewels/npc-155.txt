@@ -1,0 +1,14 @@
+gfxwidth=64
+gfxheight=64
+frames=1
+width=64
+height=64
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblock1=0
+npcblocktop=0
+grabside=0
+grabtop=0
+shoehurt=0
+scripts=##bell

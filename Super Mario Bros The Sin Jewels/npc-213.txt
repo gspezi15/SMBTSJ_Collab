@@ -1,0 +1,3 @@
+gfxsplitheight=128
+zposition=0.610000014305115
+nonpccollision=1

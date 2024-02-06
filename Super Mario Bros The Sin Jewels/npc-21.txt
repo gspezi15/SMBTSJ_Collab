@@ -1,0 +1,5 @@
+gfxsplitheight=32
+zposition=0.56
+nogravity=1
+noblockcollision=1
+scripts=bill blaster

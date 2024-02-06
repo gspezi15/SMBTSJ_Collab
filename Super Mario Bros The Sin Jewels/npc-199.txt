@@ -1,0 +1,2 @@
+iceballdmg=120
+noiceball=0

@@ -1,0 +1,6 @@
+gfxwidth=64
+gfxheight=64
+frames=1
+width=64
+height=64
+scripts=##Bell

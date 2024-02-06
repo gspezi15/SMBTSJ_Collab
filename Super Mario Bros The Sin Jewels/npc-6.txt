@@ -1,0 +1,4 @@
+gfxwidth=38
+gfxheight=55
+gfxsplitheight=216
+width=38

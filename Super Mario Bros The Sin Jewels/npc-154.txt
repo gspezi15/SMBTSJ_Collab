@@ -1,0 +1,2 @@
+gfxsplitheight=32
+scripts=CP Bell

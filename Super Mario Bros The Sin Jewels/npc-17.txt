@@ -1,0 +1,4 @@
+gfxwidth=48
+gfxheight=32
+gfxsplitheight=64
+scripts=##Bill Blaster
