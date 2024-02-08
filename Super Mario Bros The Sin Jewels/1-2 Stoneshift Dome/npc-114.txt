@@ -1,0 +1,13 @@
+gfxwidth=128
+gfxheight=32
+gfxoffsety=4
+gfxsplitheight=32
+frames=1
+width=128
+height=28
+nogravity=1
+playerblock=1
+playerblocktop=1
+noblockcollision=1
+nonpccollision=1
+scripts=decorations

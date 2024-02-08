@@ -1,0 +1,10 @@
+gfxheight=72
+gfxoffsety=8
+gfxsplitheight=96
+frames=1
+zposition=0.699999988079071
+height=64
+nogravity=1
+noblockcollision=1
+nonpccollision=1
+scripts=decorations
