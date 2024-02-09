@@ -1,0 +1,88 @@
+[Background]
+img="bg12.png"
+repeatY=false
+repeatX=true
+priority=-100
+alignY=TOP
+fitY=true
+
+[BG Mountains]
+name="BG Mountains"
+
+alignY=BOTTOM
+
+priority=-99.9
+
+img="hills.png"
+
+repeatX=true
+repeatY=false
+
+parallaxX=0.25
+parallaxY=0.2
+
+[FG Mountains]
+name="FG Mountains"
+
+alignY=BOTTOM
+
+priority=-99.8
+
+img="backtreeline.png"
+
+repeatX=true
+repeatY=false
+
+parallaxX=0.3
+parallaxY=0.25
+
+[Trees]
+name="Trees"
+
+alignY=BOTTOM
+
+priority=-99.7
+
+img="foretreeline.png"
+
+repeatX=true
+repeatY=false
+
+parallaxX=0.35
+parallaxY=0.3
+
+[Windmill BG]
+name="Windmill BG"
+
+alignY=BOTTOM
+
+priority=-99.6
+
+img="backmill.png"
+
+repeatX=true
+repeatY=false
+
+parallaxX=0.4
+parallaxY=0.35
+
+frames = 4
+framespeed = 8
+
+[Windmill FG]
+name="Windmill FG"
+
+alignY=BOTTOM
+
+priority=-99.5
+
+img="foremill.png"
+
+repeatX=true
+repeatY=false
+
+parallaxX=0.45
+parallaxY=0.4
+
+frames = 4
+framespeed = 8
