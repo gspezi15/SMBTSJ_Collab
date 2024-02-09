@@ -1,0 +1,6 @@
+[1]
+onTick=TICK_BELLS
+lifetime=100
+frames=4
+framestyle=0
+framespeed=8
